@@ -77,6 +77,7 @@
 	body_parts_covered = NONE
 	fitted = NO_FEMALE_UNIFORM
 	alternate_worn_layer = ABOVE_BODY_FRONT_LAYER
+	mutantrace_variation = STYLE_DIGITIGRADE|STYLE_NO_ANTHRO_ICON
 
 /obj/item/clothing/underwear/shirt/bra_adjustable/proc/update_sprite_visibility(datum/source, obj/item/I)
 	var/mob/living/carbon/human/H = source
