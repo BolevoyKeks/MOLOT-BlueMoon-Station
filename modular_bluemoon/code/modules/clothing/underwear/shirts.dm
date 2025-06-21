@@ -76,7 +76,7 @@
 	icon_state = "bra"
 	body_parts_covered = NONE
 	fitted = NO_FEMALE_UNIFORM
-	alternate_worn_layer = NECK_LAYER
+	alternate_worn_layer = BACK_LAYER
 	mutantrace_variation = STYLE_DIGITIGRADE|STYLE_NO_ANTHRO_ICON
 
 /obj/item/clothing/underwear/shirt/bra/bra_adjustable/proc/update_sprite_visibility(datum/source, obj/item/I)
