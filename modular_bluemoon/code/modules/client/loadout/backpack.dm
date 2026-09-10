@@ -162,3 +162,4 @@
 /datum/gear/accessory/hippads
 	name = "adjustable hip pads box"
 	path = /obj/item/storage/box/hippads
+	cost = 0
