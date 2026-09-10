@@ -383,6 +383,7 @@
 
 /obj/item/storage/box/hippads
 	name = "adjustable hip pads box"
+	desc = "Регулируемые накладки на бёдра, которые можно набить ватой, увеличивая их размер. В комплект входят сами накладки и дополнительная вата."
 
 /obj/item/storage/box/hippads/PopulateContents()
 	new /obj/item/clothing/accessory/hippads(src)
